@@ -2,7 +2,7 @@
 
 A hardware-based neural network robot that follows a line without using any microcontroller or software.
 
-## 🚀 Overview
+## Overview
 
 This project demonstrates how a simple **analog neural network** can control a mobile robot in real time. Instead of using traditional programming or digital algorithms, the system mimics the behavior of biological neurons using electronic components.
 
@@ -10,7 +10,7 @@ The result is a fast, responsive, and reliable **line-following robot** controll
 
 ---
 
-## 🧠 Key Idea
+## Key Idea
 
 The control system is inspired by **biological neurons**:
 
@@ -23,17 +23,17 @@ No software. No microcontroller. Just physics and electronics.
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🔌 Fully analog control system (no programming)
-- ⚡ Real-time response with minimal latency
-- 🧩 Simple and understandable architecture
-- 🔄 Smooth and continuous motor control (no discrete switching)
-- 🛠️ Built from commonly available components
+-  Fully analog control system (no programming)
+-  Real-time response with minimal latency
+-  Simple and understandable architecture
+-  Smooth and continuous motor control (no discrete switching)
+-  Built from commonly available components
 
 ---
 
-## 🧱 Hardware Components
+## Hardware Components
 
 Main components used:
 
@@ -50,7 +50,7 @@ Main components used:
 
 ---
 
-## 🧬 Neural Network Architecture
+## Neural Network Architecture
 
 - **5 input neurons** (IR sensors)
 - **2 output neurons** (left & right motor)
@@ -66,7 +66,7 @@ Main components used:
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 1. Sensors detect reflected IR light from the surface
 2. Analog voltage signals are generated
@@ -78,7 +78,7 @@ The robot naturally follows the line without any calculations or code.
 
 ---
 
-## 🧪 Development Process
+## Development Process
 
 - Studied biological neuron behavior
 - Designed analog neuron circuits
@@ -89,7 +89,7 @@ The robot naturally follows the line without any calculations or code.
 
 ---
 
-## 📊 Results
+## Results
 
 - Stable and smooth line following
 - Fast response to direction changes
@@ -98,7 +98,7 @@ The robot naturally follows the line without any calculations or code.
 
 ---
 
-## 💡 Advantages
+## Advantages
 
 - No software bugs
 - Very fast response time
@@ -108,7 +108,7 @@ The robot naturally follows the line without any calculations or code.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - More complex neural architectures
 - Adaptive or learning circuits
@@ -117,7 +117,7 @@ The robot naturally follows the line without any calculations or code.
 
 ---
 
-## 📚 References
+## References
 
 - The Art of Electronics – Horowitz & Hill
 - Neuroscience – Dale Purves
@@ -126,7 +126,7 @@ The robot naturally follows the line without any calculations or code.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Lóránt Majer**  
 Electrotechnics student  
@@ -134,13 +134,7 @@ Specialization: Power Engineering
 
 ---
 
-## 📸 Project Preview
-
-(Add photos or videos here)**
-
----
-
-## 📌 Summary
+## Summary
 
 This project proves that **complex behavior does not always require complex code**.  
 A well-designed analog system can be just as effective, faster, and more elegant.
